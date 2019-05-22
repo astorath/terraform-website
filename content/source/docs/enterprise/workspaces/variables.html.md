@@ -24,7 +24,7 @@ If a workspace is configured to use Terraform 0.10.0 or later, you can commit an
 
 If any automatically loaded variables have the same names as variables specified in the TFE workspace, TFE's values will override the automatic values (except for map values, [which are merged](/docs/configuration/variables.html#variable-merging)).
 
-You can also use the optional [Terraform Enterprise Provider](https://www.terraform.io/docs/providers/tfe/r/variable.html) to update a workspace's variables. This has the same effect as managing workspace variables manually or via the API, but can be more convenient for large numbers of complex variables.
+You can also use the optional [Terraform Enterprise Provider](/docs/providers/tfe/r/variable.html) to update a workspace's variables. This has the same effect as managing workspace variables manually or via the API, but can be more convenient for large numbers of complex variables.
 
 ## Managing Variables in the UI
 

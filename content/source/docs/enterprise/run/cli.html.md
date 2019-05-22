@@ -9,7 +9,7 @@ sidebar_current: "docs-enterprise2-run-cli"
 [remote]: /docs/backends/types/remote.html
 [speculative plan]: ./index.html#speculative-plans
 [permissions]: ../users-teams-organizations/permissions.html
-[tfe-provider]: /docs/providers/tfe.html
+[tfe-provider]: /docs/providers/tfe/
 [terraform-cloud]: https://app.terraform.io/signup
 
 # The CLI-driven Run Workflow
